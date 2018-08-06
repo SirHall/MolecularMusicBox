@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolecularMusicBox", "MolecularMusicBox\MolecularMusicBox.csproj", "{DB019510-F053-465E-A299-E7A50D16936D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB019510-F053-465E-A299-E7A50D16936D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB019510-F053-465E-A299-E7A50D16936D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB019510-F053-465E-A299-E7A50D16936D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB019510-F053-465E-A299-E7A50D16936D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {248CB6FE-84FD-4200-B8C6-7DA1870C263F}
+	EndGlobalSection
+EndGlobal
